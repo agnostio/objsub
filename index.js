@@ -1,0 +1,1 @@
+module.exports = (obj, keys) => {let c = {},b = 0;keys.forEach(() => {c[keys[b]] = obj[keys[b]];b++});return c};
