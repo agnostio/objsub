@@ -12,7 +12,7 @@ an easy way to clone specified object properties into a new returned object.
 #
 ### example:
 ``` javascript
-const subs = require('./index.js');
+const subs = require('objsub');
 //
 // API: (object, arrayOfKeys)
 //

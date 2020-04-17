@@ -1,0 +1,23 @@
+{
+  "name": "objsub",
+  "version": "1.0.1",
+  "description": "Object Subset",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnostio/objsub.git"
+  },
+  "keywords": [
+    "object",
+    "subset"
+  ],
+  "author": "Adam Meola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agnostio/objsub/issues"
+  },
+  "homepage": "https://github.com/agnostio/objsub#readme"
+}
